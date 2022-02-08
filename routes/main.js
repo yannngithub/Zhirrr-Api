@@ -12,7 +12,7 @@ router.get('/config', (req, res) => {
         status: true,
         result: {
             prefix : '/',
-            namabot: 'Y - BOT',
+            namabot: 'Y-BOT',
             namaowner: 'Yannn',
             instagram: 'alvianto.17',
             youtube : 'Gak Punya'
